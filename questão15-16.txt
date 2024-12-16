@@ -1,0 +1,13 @@
+Questão 15:
+Se mais de um caixa estivesse operando simultaneamente, o principal problema seria a concorrência no acesso e modificação dos dados do estoque, levando a inconsistências como:
+- Concorrência no acesso e modificação dos dados do estoque.
+- Vendas simultâneas do mesmo produto, resultando em quantidades incorretas.
+- Sobrescrita e corrupção do arquivo produtos.csv devido a gravações simultâneas.
+- Falta de controle de estoque em tempo real, permitindo vendas de produtos não disponíveis.
+
+Questão 16:
+Para resolver a concorrência entre múltiplos caixas, as soluções incluem:
+- Centralização dos dados em um banco de dados: Garantir acesso e atualização em tempo real.
+- Controle de acesso ao arquivo: Implementar locks para evitar acessos simultâneos.
+- Arquitetura cliente-servidor: Usar um servidor central para gerenciar o estoque e processar solicitações dos caixas.
+- Sistemas distribuídos com sincronização: Utilizar algoritmos de sincronização para manter a consistência dos dados.

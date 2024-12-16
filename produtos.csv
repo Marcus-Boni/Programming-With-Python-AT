@@ -1,0 +1,101 @@
+ID,Nome do Produto,Quantidade em Estoque,Preço (R$)
+1,Arroz,67,55.21
+2,Feijão,30,308.08
+3,Macarrão,35,87.2
+4,Açúcar,3,109.02
+5,Sal,32,410.34
+6,Óleo,15,408.04
+7,Leite,7,294.27
+8,Café,19,340.14
+9,Farinha,29,75.58
+10,Pão,44,36.87
+11,Manteiga,40,97.51
+12,Queijo,24,173.03
+13,Presunto,36,58.66
+14,Frango,48,178.83
+15,Carne,2,194.69
+16,Peixe,36,168.45
+17,Ovos,19,283.96
+18,Maçã,18,231.9
+19,Banana,48,428.27
+20,Laranja,35,15.36
+21,Uva,50,31.67
+22,Melancia,38,50.49
+23,Abacaxi,2,480.17
+24,Morango,46,434.0
+25,Tomate,45,78.4
+26,Alface,30,75.39
+27,Cenoura,18,202.84
+28,Batata,10,267.83
+29,Cebola,13,489.82
+30,Alho,23,364.46
+31,Pimentão,27,234.13
+32,Brócolis,12,8.99
+33,Espinafre,27,11.93
+34,Abobrinha,7,359.96
+35,Berinjela,37,227.73
+36,Chuchu,15,352.89
+37,Beterraba,1,154.92
+38,Repolho,20,466.81
+39,Couve,40,183.98
+40,Alcachofra,26,288.57
+41,Ervilha,26,281.72
+42,Milho,3,148.35
+43,Feijão Verde,4,265.0
+44,Grão-de-Bico,42,137.59
+45,Lentilha,5,216.18
+46,Soja,16,111.05
+47,Amendoim,47,35.1
+48,Castanha,24,394.22
+49,Noz,22,101.16
+50,Amêndoa,25,179.25
+51,Avelã,35,316.56
+52,Pistache,44,215.53
+53,Noz Pecan,28,414.98
+54,Macadâmia,27,322.2
+55,Castanha-do-Pará,15,283.07
+56,Castanha-de-Caju,9,237.39
+57,Amêndoa Torrada,47,28.68
+58,Amendoim Torrado,34,209.9
+59,Castanha Torrada,25,284.98
+60,Noz Torrada,22,127.36
+61,Amêndoa Crua,12,135.58
+62,Amendoim Cru,22,383.75
+63,Castanha Crua,42,214.35
+64,Noz Crua,11,333.65
+65,Amêndoa Salgada,13,276.72
+66,Amendoim Salgado,10,48.22
+67,Castanha Salgada,24,140.03
+68,Noz Salgada,25,294.86
+69,Amêndoa Doce,40,384.01
+70,Amendoim Doce,25,247.71
+71,Castanha Doce,30,331.98
+72,Noz Doce,23,80.08
+73,Amêndoa Defumada,16,313.85
+74,Amendoim Defumado,22,313.64
+75,Castanha Defumada,26,124.58
+76,Noz Defumada,17,302.93
+77,Amêndoa Picante,25,313.37
+78,Amendoim Picante,13,315.9
+79,Castanha Picante,2,456.35
+80,Noz Picante,12,480.41
+81,Amêndoa Temperada,3,383.62
+82,Amendoim Temperado,34,182.51
+83,Castanha Temperada,22,494.3
+84,Noz Temperada,37,64.9
+85,Amêndoa Caramelizada,1,333.64
+86,Amendoim Caramelizado,23,134.47
+87,Castanha Caramelizada,38,302.16
+88,Noz Caramelizada,33,307.66
+89,Amêndoa com Chocolate,30,354.23
+90,Amendoim com Chocolate,25,244.34
+91,Castanha com Chocolate,4,416.51
+92,Noz com Chocolate,34,349.59
+93,Amêndoa com Mel,30,43.74
+94,Amendoim com Mel,20,481.31
+95,Castanha com Mel,46,302.74
+96,Noz com Mel,44,75.69
+97,Amêndoa com Sal,7,282.11
+98,Amendoim com Sal,36,172.07
+99,Castanha com Sal,39,437.61
+100,Noz com Sal,90,409.73
