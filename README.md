@@ -42,11 +42,11 @@ Este projeto é um sistema de caixa para um supermercado, implementado em Python
 ## Estrutura do Projeto
 
 ```plaintext
-supermercado/
 ├── main.py           # Arquivo principal para execução do programa.
 ├── caixa.py          # Contém as funções relacionadas à operação do caixa.
 ├── produtos.csv      # Arquivo com os produtos do supermercado.
-└── utils.py          # Funções auxiliares para leitura e gravação de arquivos.
+└── utils.py          # Funções auxiliares em geral.
+└── arquivo.py        # Função auxiliar para leitura e gravação de arquivos.
 ```
 
 ### Exemplo do Arquivo `produtos.csv`
